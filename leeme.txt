@@ -1,0 +1,49 @@
+		[ Windows XP SP4 ]
+			Desarrollado por DSR!
+
+
+[*]Service Pack 4
+	98 Hoxfixes
+	Windows Media Player 11
+	Internet Explorer 8
+
+[*]Extras
+	Soporte de Linea de Comando
+	Windows Media Player 11 force validation
+	DirectX 9 updater
+
+[*]Notas
+	-Este Service Pack fue desarrollado para actualizar Windows XP SP3
+	x86 en castellano con los parches de seguridad al dia de la fecha.
+	
+	-BootOptimizeFunction, EnableQuickReboot y algun tweak mas agregado.
+
+	-Comandos soportados:
+		/nobackup :no realizar copias de seguridad de los archivos a actualizar
+		/wmpfix   :fuerza la validacion del windows media player (solo usar en wmp11)
+		/uiupdate :parchea uxtheme.dll para poder usar temas no firmados e instala Luna Royale, Panther y Zune
+		/ieupdate :instala y actualiza ie8
+		/wmpupdate:instala y actualiza wmp11		
+		/directx  :al terminar coloca en el escritorio el updater de DirectX 9
+		/cleanup  :borrar archivos usados por el instalador
+		/S        :instalacion desatendida
+		/?        :muestra los switch usados por linea de comando
+		/ending   :usar solo si no se quiere instalar WindowsUpdateAgent30, kb898461, KB942288, ie8 ni wmp11
+
+[*]Changelog
+	v1 publica:
+		18/02/2011
+		CRC32: 7A9B6C1C
+		MD5  : CD52AE701CDF58B489351AC64E56DC98
+		SHA-1: A0E8430A5BE63C8A7399FB9BDE1DFAF7BF7BB666
+	
+	v1.5 publica
+		27/06/2012
+		CRC32: 9B3D007F
+		MD5  : BBDB8FD12DC718A46D03F09D30ADD603
+		SHA-1: 3626C8971C630F95E22E4E33200E9C2E3228415D
+		[+] Agregados como 55 parches
+		[+] Agregados nuevas opciones
+
+	
+
